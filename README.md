@@ -1,6 +1,6 @@
 # Top 5 Beginner Electronics Projects You Can Build at Home
 
-![Hero Banner](images/hero-banner.png)
+![Hero Banner](images/hero%20banner.png)
 
 ## Overview
 
