@@ -26,7 +26,7 @@ Whether you're a student, hobbyist, or aspiring engineer, these practical projec
 
 ## 1. LED Blinking Circuit
 
-![LED Blinking](images/led-blinking-project.png)
+![LED Blinking](images/LED%20Blinking%20Project%20Illustration.png)
 
 Learn how digital outputs work by controlling an LED using Arduino.
 
@@ -34,7 +34,7 @@ Learn how digital outputs work by controlling an LED using Arduino.
 
 ## 2. Arduino Traffic Light
 
-![Traffic Light](images/traffic-light-project.png)
+![Traffic Light](images/Traffic%20Light%20Project%20Illustration.png)
 
 Build a simple traffic signal simulation using three LEDs.
 
@@ -42,7 +42,7 @@ Build a simple traffic signal simulation using three LEDs.
 
 ## 3. Ultrasonic Distance Meter
 
-![Ultrasonic](images/ultrasonic-distance-meter.png)
+![Ultrasonic](images/Ultrasonic%20Distance%20Meter%20Illustration.png)
 
 Measure distance using the HC-SR04 ultrasonic sensor.
 
@@ -50,7 +50,7 @@ Measure distance using the HC-SR04 ultrasonic sensor.
 
 ## 4. Automatic Night Lamp
 
-![Night Lamp](images/automatic-night-lamp.png)
+![Night Lamp](images/Automatic%20Night%20Lamp%20Illustration.png)
 
 Create an automatic lighting system using an LDR sensor.
 
@@ -58,7 +58,7 @@ Create an automatic lighting system using an LDR sensor.
 
 ## 5. Obstacle Avoiding Robot
 
-![Robot](images/obstacle-avoiding-robot.png)
+![Robot](images/Obstacle%20Avoiding%20Robot%20Illustration.png)
 
 Combine motors and sensors to build your first autonomous robot.
 
@@ -66,19 +66,19 @@ Combine motors and sensors to build your first autonomous robot.
 
 # Project Overview
 
-![Overview](images/project-overview.png)
+![Overview](images/Project%20Overview%20Infographic.png)
 
 ---
 
 # Beginner Learning Roadmap
 
-![Roadmap](images/beginner-learning-roadmap.png)
+![Roadmap](images/Beginner%20Electronics%20Learning%20Roadmap.png)
 
 ---
 
 # Components You'll Need
 
-![Components](images/components-flat-lay.png)
+![Components](images/Components%20Flat-Lay%20Image.png)
 
 Typical components include:
 
